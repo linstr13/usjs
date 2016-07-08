@@ -1,6 +1,6 @@
 # usJs
-
-###usJS, The Framework That Shortens JS.
+*usJS = underscore javascript*
+usJS, The Framework That Shortens JS.
 ## Examples
 | usJS | Vanilla JS |
 | --- | --- |
