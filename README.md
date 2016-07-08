@@ -6,3 +6,4 @@
 | usJS | Vanilla JS |
 | --- | --- |
 | _.gebid() | document.getElementById() |
+| _.redir() | document.location.href="" |
