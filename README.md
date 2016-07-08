@@ -1,5 +1,6 @@
 # usJs
-usJS, The Framework That Shortens JS.
+
+###usJS, The Framework That Shortens JS.
 ## Examples
 | usJS | Vanilla JS |
 | --- | --- |
