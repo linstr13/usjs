@@ -1,4 +1,4 @@
-*usJS Functions
+#usJS Functions
 
 | Function | Meaning | Syntax | Use |
 | --- | --- | --- | --- |
